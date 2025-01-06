@@ -1,6 +1,6 @@
 # Staircases
 
-Game made using C#. WIP - Unfinished.
+Game made using C#. WIP.
 
 A challenging procedurally generated platformer built with C# and MonoGame, featuring dynamic difficulty scaling and persistent leaderboards.
 
