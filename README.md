@@ -1,8 +1,6 @@
 # Staircases
 
-Game made using C#
-
-# Infinite Staircase Climber
+Game made using C#. WIP - Unfinished.
 
 A challenging procedurally generated platformer built with C# and MonoGame, featuring dynamic difficulty scaling and persistent leaderboards.
 
@@ -83,6 +81,10 @@ dotnet test
 ```bash
 dotnet publish -c Release
 ```
+
+## License
+
+MIT License
 
 ## Contributing
 
